@@ -1,2 +1,2 @@
-# Zula
-This is a Mbarara University of Science and Technology event hosting website 
+# zuula
+This is the main repostory for the zuula application
